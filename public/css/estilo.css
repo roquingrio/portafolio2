@@ -1,0 +1,89 @@
+body{
+    font-family: serif;
+    scrollbar-width: none;
+    overflow-y: scroll;
+    
+}
+
+/*Estilo menu*/
+#menu{
+    background-color: #151D3B;
+    
+}
+#menu a{
+    color: #6EBF8B;
+    font-size:larger;
+    
+    
+}
+#menu a:hover{
+    color: #D82148;
+}
+
+/*Estilo cabecera*/
+
+#cabecera{
+    background-color: #151D3B;
+    text-align: center;
+    color: #DADBBD;
+    
+}
+#cabecera h1{
+    color:#D82148;
+}
+#cabecera img{
+    width: 350px;
+    margin-left: auto; 
+    margin-right: auto;
+
+}
+
+/* Estilo tipo de trabajos*/
+
+
+#tipo-trabajos h2{
+    color: #D82148;
+}
+
+#tipo-trabajos img{
+    width: 250px;
+    margin-left: auto; 
+    margin-right: auto;
+
+}
+
+#color h2{
+    color: #D82148;
+}
+
+#portfolio h2{
+    color: #D82148;
+}
+
+
+/*Estilo formulario*/
+
+#contacto{
+    background-color: #151D3B;
+}
+#contacto h2{
+    text-align: center;
+    color: #6EBF8B;
+}
+#contacto label{
+    color:#DADBBD;
+}
+
+/*footer*/
+
+#footer{
+    background-color:#D82148;
+}
+#footer img{
+    width: 30px;
+}
+
+#texto{
+    color: #D82148;
+    background-color: #151D3B;
+}
